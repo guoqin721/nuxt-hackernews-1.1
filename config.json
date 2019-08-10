@@ -1,0 +1,8 @@
+{
+    "api": "http://dev1.51zouchuqu.com",
+    "version": "/v3",
+    "mainApiConfig": {
+      "prefix": "/boss/web",
+      "afterfix": ""
+    }
+  }
